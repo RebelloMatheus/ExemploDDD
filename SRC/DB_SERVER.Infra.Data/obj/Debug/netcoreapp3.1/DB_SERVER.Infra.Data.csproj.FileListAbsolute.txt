@@ -1,0 +1,12 @@
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\bin\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.deps.json
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\bin\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.dll
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\bin\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.pdb
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\bin\Debug\netcoreapp3.1\DB_SERVER.Dominio.dll
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\bin\Debug\netcoreapp3.1\DB_SERVER.Dominio.pdb
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\obj\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.csprojAssemblyReference.cache
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\obj\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.AssemblyInfoInputs.cache
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\obj\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.AssemblyInfo.cs
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\obj\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.csproj.CoreCompileInputs.cache
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\obj\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.csproj.CopyComplete
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\obj\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.dll
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Infra.Data\obj\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.pdb
