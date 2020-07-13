@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="alert alert-success" role="alert">
+    <h4 class="alert-heading">Restaurante do Dia!</h4>
+    <p>@ViewBag.RestauranteDoDia</p>
+    <hr>
+    <p class="mb-0">Ainda não escolheu? <a href="@Url.Action("Create", "Votacoes")">Clique aqui</a></p>
+</div>
+<hr />
+<div class="text-center">
+    <h1 class="display-4">Bem Vindo!</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

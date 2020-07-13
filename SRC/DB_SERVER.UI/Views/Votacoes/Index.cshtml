@@ -1,0 +1,41 @@
+﻿@model IEnumerable<DB_SERVER.Aplicacao.ViewModel.VotacoesViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Restaurante)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Profissional)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Restaurante.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Profissional.Nome)
+            </td>        
+        </tr>
+}
+    </tbody>
+</table>

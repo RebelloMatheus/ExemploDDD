@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DB_SERVER.Dominio/1.0.0": {
+        "runtime": {
+          "DB_SERVER.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DB_SERVER.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

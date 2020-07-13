@@ -46,23 +46,28 @@ Foram criados 3 modelos de domínios no sistema:
 3. __Restaurantes__.
 
 
-## Requisitos de ambiente
+### Cobertura de Testes
+Os testes desenvolvidos foram criados para dar sustentação nas principal operação do sistema, como votações.
+
+Para os casos foram utilizados os componentes:
+1. Moq - Pacote: Moq (v4.14.5)
+2. xUnit - Pacote: xunit (v2.4.0)
+3. FluentAssertions - Pacote: FluentAssertions (v5.10.3)
+
+
+## Instruções
+
+### Requisitos de ambiente
 1. Ambiente para rodar .Net Core 
 2. SqlServer
 
 
-### Instalação
-
-#### Configurar conexão ao banco de dados
-Configurar no arquivo DB_SERVER.UI/appsettings.json
-
-#### Executar o migration
-No Console do Gerenciador de Pacotes
-1. Selecione 4 - Infra\DB_SERVER.Infra.Data  
-2. Execute o comando update-database ou script-migration para gerar script manual.
+### Instruções de como utilizar o sistema.
+Na tela inicial sera apresentado a restaurante mais votado do dia, podendo votar no link mais a baixo.
+No menu Votações esta listados todos os votos realizados e um link para votar.
 
 
-## Detalhamento Técnico
+### Detalhamento Técnico
 O App foi desenvolvido sob a plataforma .Net 3.1
 
 Na camada de Interface foi utilizado o template nativo da Microsoft:
@@ -74,12 +79,17 @@ Nos demais projetos da solução foram utilizados os seguintes componentes
 2. Banco de Dados SQL Server - Pacote: Microsoft.EntityFrameworkCore.SqlServer (v3.1.5)
 3. AutoMapper - Pacote: AutoMapper.Extensions.Microsoft.DependencyInjection (v7.0.0)
 
-### Cobertura de Testes
-Os testes desenvolvidos foram criados para dar sustentação nas principal operação do sistema, como votações.
 
-Para os casos foram utilizados os componentes:
-1. Moq - Pacote: Moq (v4.14.5)
-2. xUnit - Pacote: xunit (v2.4.0)
-3. FluentAssertions - Pacote: FluentAssertions (v5.10.3)
+### O que poderia ser feito para melhorar o sistema?
+Camada de usuários e desenvolvimento das telas para o cadastro dos dominios __Restaurantes__ e __Profissionais__
 
 
+### Instalação
+
+#### Configurar conexão ao banco de dados
+Configurar no arquivo DB_SERVER.UI/appsettings.json
+
+#### Executar o migration
+No Console do Gerenciador de Pacotes
+1. Selecione 4 - Infra\DB_SERVER.Infra.Data  
+2. Execute o comando update-database ou script-migration para gerar script manual.

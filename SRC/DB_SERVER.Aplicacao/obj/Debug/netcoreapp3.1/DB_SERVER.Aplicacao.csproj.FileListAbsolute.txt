@@ -1,0 +1,14 @@
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\bin\Debug\netcoreapp3.1\DB_SERVER.Aplicacao.deps.json
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\bin\Debug\netcoreapp3.1\DB_SERVER.Aplicacao.dll
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\bin\Debug\netcoreapp3.1\DB_SERVER.Aplicacao.pdb
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\bin\Debug\netcoreapp3.1\DB_SERVER.Dominio.dll
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\bin\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.dll
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\bin\Debug\netcoreapp3.1\DB_SERVER.Dominio.pdb
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\bin\Debug\netcoreapp3.1\DB_SERVER.Infra.Data.pdb
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\obj\Debug\netcoreapp3.1\DB_SERVER.Aplicacao.csprojAssemblyReference.cache
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\obj\Debug\netcoreapp3.1\DB_SERVER.Aplicacao.AssemblyInfoInputs.cache
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\obj\Debug\netcoreapp3.1\DB_SERVER.Aplicacao.AssemblyInfo.cs
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\obj\Debug\netcoreapp3.1\DB_SERVER.Aplicacao.csproj.CoreCompileInputs.cache
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\obj\Debug\netcoreapp3.1\DB_SERVER.Aplicacao.csproj.CopyComplete
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\obj\Debug\netcoreapp3.1\DB_SERVER.Aplicacao.dll
+D:\prova\DBServer\ExemploDDD\SRC\DB_SERVER.Aplicacao\obj\Debug\netcoreapp3.1\DB_SERVER.Aplicacao.pdb
